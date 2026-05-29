@@ -31,9 +31,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## 📈 Platforms
 Problems are solved from:
 - LeetCode
-- Codeforces
-- GeeksforGeeks
-- HackerRank
 
 ## 📅 Daily Progress
 I regularly upload solutions and track my learning journey through this repository.
