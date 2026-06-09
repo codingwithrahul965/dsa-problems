@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 // 1. A function that doesn't return anything (void)
 void greet() {
     cout << "Welcome to C++ Basics!" << endl;
